@@ -54,7 +54,7 @@ You can run the tests by running the Jupyter Notebook file, and running each cel
 
 ## Authors
 
-* **Luis Garcia** - *Initial work* - [Luis Garcia](
+* **Luis Garcia** - *Initial work* - [Luis Garcia]
 But it doesn't really matter as long as I get data, I'll be happy.
 
 I'll be using Python, Pandas, Numpy, Matplotlib, Seaborn, and other libraries to get the data,
