@@ -2,10 +2,10 @@
 Data Collection and Analysis of Traffic Patterns.
 
 This is my first project where I'll have hands-on real practice for Data Science,
-I want to combine my Transportation and Highway Degree with Data Science.
+I want to combine my Transportation and Highway Degree, with Data Science.
 
 I'll start looking for traffic data in the US, I'm focused to get the data in the East Coast.
-I'll be using Python, Pandas, Numpy, Matplotlib, Seaborn, and other libraries. 
+I'll be using Python, Pandas, Numpy, Matplotlib, Seaborn, and other libraries to get the data,
 
 ## Getting Started
 
@@ -50,11 +50,10 @@ You can run the tests by running the Jupyter Notebook file, and running each cel
 
 * [Python](https://www.python.org/) - The programming language used.
 * [Jupyter Notebook](https://jupyter.org/) - The IDE used.
-* [DataSpell] -The IDE uses
 
 ## Authors
 
-* **Ivan Rodriguez** - *Initial work* - [Ivan Rodriguez]
+* **Luis Garcia** - *Initial work* - [Luis Garcia]
 But it doesn't really matter as long as I get data, I'll be happy.
 
 I'll be using Python, Pandas, Numpy, Matplotlib, Seaborn, and other libraries to get the data,
