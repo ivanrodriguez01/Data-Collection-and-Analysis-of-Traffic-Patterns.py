@@ -2,7 +2,7 @@
 Data Collection and Analysis of Traffic Patterns.
 
 This is my first project where I'll have hands-on real practice for Data Science,
-I want to combine my Transportation and Highway Degree, with Data Science.
+I want to combine my Transportation and Highway Degree with Data Science.
 
 I'll start looking for traffic data in the US, I'm focused to get the data in the East Coast.
 I'll be using many libraries to work with.
