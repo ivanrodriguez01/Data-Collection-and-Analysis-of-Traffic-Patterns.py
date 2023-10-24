@@ -1,4 +1,4 @@
-# MVC_First_ofPthe_Year_Block_Group
+# MVC_First_of_the_Year_Block_Group
 
 This project is based on the Massachusetts Vehicle Census (MVC) that joins Vehicle-Level odometer, readings  with attribute and registration transaction histories. This powerful resource allows policymarkers, researchers, and other stakeholders understand state and local trends in vehicle usage and ownership.
 
