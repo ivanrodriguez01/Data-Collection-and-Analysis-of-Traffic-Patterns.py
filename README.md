@@ -20,7 +20,7 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 | 7 | FuelClass | object |
 | 8 | VehicleUse | object |
 | 9 | ModelYear | int64 |
-| 10 | GVWRCategory | int64 |
+| 10 | GVWRCategory | object |
 | 11 | Count | int64 |
 | 12 | DailyVMT | float64 |  
 
