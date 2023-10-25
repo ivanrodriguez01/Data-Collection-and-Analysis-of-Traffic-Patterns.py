@@ -5,17 +5,16 @@ This project is based on the Massachusetts Vehicle Census (MVC) that joins Vehic
 The Massachusetts Vehicle Census First of the Year Block Group dataset contains historical point in time snapshots of the amount of vehicles and estimated daily VMT (Vehicle Miles Travelled) grouped by BlockGroup, municipality and vehicle attribute. The dataset uses excise tax data and annual vehicle inspection odometer readings ad data inputs. 
 
 [https://geo-massdot.opendata.arcgis.com/datasets/mvc-first-of-the-year-block-group/about](https://geo-massdot.opendata.arcgis.com/datasets/mvc-first-of-the-year-block-group/about) Website where to get the data.
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
-#   Column               Dtype  
----  ------               -----  
- 0   Date                 object 
- 1   MPO                  object 
- 2   GarageCode           int64  
- 3   Municipality         object 
- 4   BlockGroup           float64
+
+## Data information 
+
+| # of Column | Column Name  | Column type |
+| 0 | Date | object |
+| 1 | MPO | object |
+| 2 | GarageCode  | int64 |
+| 3 | Municipality | int64 |
+| 4 | BlockGroup | float64 |
+
  5   VehicleType          object 
  6   AdvancedVehicleType  object 
  7   FuelClass            object 
