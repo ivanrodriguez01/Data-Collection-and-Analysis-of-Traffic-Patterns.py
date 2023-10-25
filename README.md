@@ -7,10 +7,6 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 [https://geo-massdot.opendata.arcgis.com/datasets/mvc-first-of-the-year-block-group/about](https://geo-massdot.opendata.arcgis.com/datasets/mvc-first-of-the-year-block-group/about) Website where to get the data.
 
 ## Data information 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
 
 | # of Column | Column Name | Column type |
 | ----------- | ----------- | ----------- |
