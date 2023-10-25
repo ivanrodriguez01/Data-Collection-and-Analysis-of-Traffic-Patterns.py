@@ -12,7 +12,7 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 | Header | Title |
 | Paragraph | Text |
 
-| of Column | Column Name | Column type |
+| # of Column | Column Name | Column type |
 | ----------- | ----------- | ----------- |
 | 0 | Date | object |
 | 1 | MPO | object |
