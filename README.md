@@ -27,3 +27,6 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 ***dtypes: float64(2), int64(3), object(8)***
 
 These are the columns and the type on them, there are in total 2,723,702 rows and 13 columns on it, so if the data were perfect there would be 35,408,123 records on the table.
+
+Some values are missed in the **BlockGroup** column. There are 516 values missed, I'll get rid of those rows to work with the rest of the data.
+New data rows equal to 2,723,186 rows and 13 columns.
