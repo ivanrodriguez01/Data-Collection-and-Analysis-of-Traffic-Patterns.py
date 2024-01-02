@@ -10,19 +10,19 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 
 | # of Column | Column Name | Column type |
 | ----------- | ----------- | ----------- |
-| 0 | Date | object |
-| 1 | MPO | object |
-| 2 | GarageCode  | int64 |
-| 3 | Municipality | object |
-| 4 | BlockGroup | float64 |
-| 5 | VehicleType | object |
-| 6 | AdvancedVehicleType | object |
-| 7 | FuelClass | object |
-| 8 | VehicleUse | object |
-| 9 | ModelYear | int64 |
-| 10 | GVWRCategory | object |
-| 11 | Count | int64 |
-| 12 | DailyVMT | float64 |  
+| 1 | Date | object |
+| 2 | MPO | object |
+| 3 | GarageCode  | int64 |
+| 4 | Municipality | object |
+| 5 | BlockGroup | float64 |
+| 6 | VehicleType | object |
+| 7 | AdvancedVehicleType | object |
+| 8 | FuelClass | object |
+| 9 | VehicleUse | object |
+| 10 | ModelYear | int64 |
+| 11 | GVWRCategory | object |
+| 12 | Count | int64 |
+| 13 | DailyVMT | float64 |  
 
 ***dtypes: float64(2), int64(3), object(8)***
 
