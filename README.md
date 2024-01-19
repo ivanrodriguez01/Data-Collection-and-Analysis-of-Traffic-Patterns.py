@@ -8,9 +8,9 @@ The Massachusetts Vehicle Census First of the Year Block Group dataset contains 
 
 ## Data information 
 
-| # of Column | Column Name | Column type |
-| ----------- | ----------- | ----------- |
-| 1 | Date | object |
+| # of Column | Column Name | Column type | # of Unique values |
+| ----------- | ----------- | ----------- | ------------------ |
+| 1           | Date        | object |
 | 2 | MPO | object |
 | 3 | GarageCode  | int64 |
 | 4 | Municipality | object |
@@ -30,3 +30,7 @@ These are the columns and the type on them, there are in total 2,723,702 rows an
 
 Some values are missed in the **BlockGroup** column. There are 516 values missed, I'll get rid of those rows to work with the rest of the data.
 New data rows equal to 2,723,186 rows and 13 columns.
+
+### 1. Date information
+
+
